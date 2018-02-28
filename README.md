@@ -10,6 +10,7 @@ Centralized cloud identity has peaked. Distributed ledgers, decentralized identi
 |Time |  Wednesday, March 28th, at 13:30 |
 |Format |  Moderator leading a 50 minute panel discussion |
 |Moderator |  Michael Schwartz |
+|Sovrin Advisor| Drummond Reed |
 |Panelists | Paul Grassi , George Fletcher, Rajiv Dholakia |
 
 ## Vocabulary
@@ -28,7 +29,19 @@ Centralized cloud identity has peaked. Distributed ledgers, decentralized identi
 
 ## Questions for panelists
 
-* "How would the OAuth protocol work with a self-sovereign identity agent?"
-* "How would the OpenID Connect protocol work with a self-sovereign identity agent?"
-* "How would the FIDO protocol work with a self-sovereign identity agent?"
-* "How will the emergence and adoption of SSI affect the identity landscape? What will be different?"
+* FIDO|OpenID|Sovrin: What is the core problem it solves?  How is it an enabler of sovereign identity?
+
+* Some might say that adoption is more important then standards. What are the drivers for adoption of all these technologies?
+
+* Where do FIDO, OpenID and Sovereign Identity need to work-together? What are the potential intersection points?
+
+* On the Internet today, privacy seems like a utopian fantasy. How will FIDO|OpenID|Sovrin foster privacy? To what extent do you think privacy is
+necessary for progress?
+
+* There is no inherent trust between two Internet domains, e.g. abc.com
+doesn't trust xyz.com. To what extent is trust management a barrier to
+progress today, and how does OpenID|FIDO|Sovereign Identity provide a bridge?
+
+* Can OpenID|FIDO|Sovereign identity succeed without open source software? If
+not, should open source also be considered a essential component of sovereign
+identity?
