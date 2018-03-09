@@ -15,15 +15,16 @@ Centralized cloud identity has peaked. Distributed ledgers, decentralized identi
 
 ## Vocabulary
 
-|Standard	| Work Group| Very Short Description |
+|Standard	| Type | Very Short Description |
 |---------|-----------|------------------------|
 |DID | W3C | |
-|DID Auth | | |
-|DKMS | | |
+|DID Auth | W3C | |
+|DKMS | W3C | |
 |FIDO | FIDO Alliance | |
 |OpenID Connect | OpenID Foundation | |
 |OAuth | IETF | |
-|UMA | Kantara | |
+|Sovrin | Sovrin Foundation | |
+|UMA | Kantara Initiative | |
 |Verifiable Claims | W3C | |
 |W3C Web Authentication | W3C | |
 
@@ -33,15 +34,15 @@ Centralized cloud identity has peaked. Distributed ledgers, decentralized identi
 
 * Some might say that adoption is more important then standards. What are the drivers for adoption of all these technologies?
 
-* Where do FIDO, OpenID and Sovereign Identity need to work-together? What are the potential intersection points?
+* Where do FIDO, OpenID and Sovrin need to work-together? What are the potential intersection points?
 
 * On the Internet today, privacy seems like a utopian fantasy. How will FIDO|OpenID|Sovrin foster privacy? To what extent do you think privacy is
 necessary for progress?
 
 * There is no inherent trust between two Internet domains, e.g. abc.com
 doesn't trust xyz.com. To what extent is trust management a barrier to
-progress today, and how does OpenID|FIDO|Sovereign Identity provide a bridge?
+progress today, and how does OpenID|FIDO|Sovrin provide a bridge?
 
 * Can OpenID|FIDO|Sovereign identity succeed without open source software? If
-not, should open source also be considered a essential component of sovereign
-identity?
+not, should open source also be considered a essential component of
+decentralized identity?
