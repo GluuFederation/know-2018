@@ -23,26 +23,40 @@ Centralized cloud identity has peaked. Distributed ledgers, decentralized identi
 |FIDO | FIDO Alliance | |
 |OpenID Connect | OpenID Foundation | |
 |OAuth | IETF | |
+|OTTO | Kantara Initiative | |
 |Sovrin | Sovrin Foundation | |
 |UMA | Kantara Initiative | |
 |Verifiable Claims | W3C | |
 |W3C Web Authentication | W3C | |
 
+## Mike's Intro
+
+* Thank 1 World Identity, panelists and attendees! (Wait for people to sit down...)
+* Logistical details: link to slides, Twitter hashtag #know-you
+* Brief intro of each panelist
+* Quick definition of "sovereign identity"
+* Pose question: "Has centralized cloud identity peaked?"
+* But before we dive into that... ACRONYM DISCLAIMER + Infographic
+
 ## Questions for panelists
 
-* FIDO|OpenID|Sovrin: What is the core problem it solves?  How is it an enabler of sovereign identity?
+1. Has centralized cloud identity peaked? Is sovereign identity possible? Is
+it likely?
 
-* Some might say that adoption is more important then standards. What are the drivers for adoption of all these technologies?
+1. FIDO|OpenID|Sovrin: What is the core problem it solves? Do you agree with the infographic? How could FIDO|OpenID|Sovrin enable decentralized identity?
 
-* Where do FIDO, OpenID and Sovrin need to work-together? What are the potential intersection points?
+1. On the Internet today, privacy seems like a utopian fantasy. To what extent
+do you think privacy is necessary for progress?
 
-* On the Internet today, privacy seems like a utopian fantasy. How will FIDO|OpenID|Sovrin foster privacy? To what extent do you think privacy is
-necessary for progress?
-
-* There is no inherent trust between two Internet domains, e.g. abc.com
+1. There is no inherent trust between two Internet domains, e.g. abc.com
 doesn't trust xyz.com. To what extent is trust management a barrier to
-progress today, and how does OpenID|FIDO|Sovrin provide a bridge?
+sovereign identity, and do OpenID|FIDO|Sovrin provide a bridge?
 
-* Can OpenID|FIDO|Sovereign identity succeed without open source software? If
-not, should open source also be considered a essential component of
-decentralized identity?
+1. FIDO|OpenID|Sovrin are technical components of a sovereign identity
+ecosystem. Are there missing technical components? What about business or legal
+components?
+
+## Mike's Conclusion
+
+* Thank panelists and attendees!
+* Reminder short link for slides
